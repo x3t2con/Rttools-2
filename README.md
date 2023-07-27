@@ -3,12 +3,18 @@
 
 rttools——本项目集合了在渗透测试过程中可能涉及到的所有工具，去繁化简，做高效安全测试人。
 
-​			项目内包含工具涉及类别：漏洞利用工具代审辅助、漏洞利用、靶场环境项目地址列表、漏洞扫描/序列化、密码/隧道项目地址			链接、免杀项目地址列表、内网项目地址链接、应急响应项目地址列表、木马查杀、中间件工具项目链接、字典/钓鱼/社工/爆破项			目地址链接、自动化/资产项目地址列表、子域名/目录/指纹
+​			项目内包含工具涉及类别：漏洞利用工具代审辅助、漏洞利用、靶场环境、漏洞扫描/序列化、密码/隧道、免杀、内网渗透、应急响应、木马查杀、中间件工具、字典/钓鱼/社工/爆破、自动化/资产项目地址列表、子域名/目录/指纹。
+      本项目主要内容为：对GitHub平台上的渗透测试工具整合，项目中所涉及工具是否存在后门等程序，需使用人员自行测试，建议在虚拟环境运行。
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。
 
 PS:项目内容不定期更新，可按需下载。（路过的师傅们，如果觉得本项目对您的安全学习研究有帮助，可以留下您的星。）
 
+Rttools - This project gathers all the tools that may be involved in the Penetration test process, reduces complexity, and is an efficient security tester.
+The categories of tools included in the project include: proxy audit assistance of vulnerability utilization tools, vulnerability utilization, shooting range environment, vulnerability scanning/serialization, password/tunnel, kill free, intranet penetration, emergency response, Trojan horse killing, middleware tools, dictionary/fishing/social workers/blasting, automation/asset project address list, Subdomain/directory/fingerprint.
+The main content of this project is to integrate the Penetration test tools on the GitHub platform. Whether there are backdoors and other programs for the tools involved in the project needs to be tested by the users themselves. It is recommended to run them in a virtual environment.
+Disclaimer: The tool is only for security research or authorized penetration, and the consequences of illegal use shall be borne by oneself.
+PS: The project content is updated periodically and can be downloaded as needed. (Passing masters, if you find this project helpful for your safety learning research, you can leave your star behind.)
 :star: :fork_and_knife: :desktop_computer:  :smiling_imp: 
 
 ## 项目内工具原地址链接如下
